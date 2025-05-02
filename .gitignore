@@ -1,0 +1,7 @@
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.jar
+*.log
+*.iml
