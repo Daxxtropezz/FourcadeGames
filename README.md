@@ -29,9 +29,15 @@ FourcadeGames is a Java-based game suite developed using NetBeans IDE. It's a si
 - [Java](https://www.java.com/) – Core programming language
 - [NetBeans](https://netbeans.apache.org/) – Development environment used for the project
 
-## 🎨 Screenshots
+## 🎨 Preview
 
-*Add screenshots of each game here to show how they look in action.*
+<div align="center">
+   
+| Snake Game | Puzzle Game |
+| :--------: | :-------: |
+| <img src="https://github.com/user-attachments/assets/d3d45792-3dd4-4ae9-81c0-a0c6c99a3300" alt="Snake Game" height="200px" /> | <img src="https://github.com/user-attachments/assets/6cbb63ff-315e-422b-9d6f-80bcb516ad6d" alt="Puzzle Game" height="200px" /> |
+
+</div>
 
 ## 🤝 Contributing
 
